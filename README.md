@@ -15,4 +15,3 @@ Sou estudante do DevClub, e atualmente estou criando projetos com:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-gade)](https://github.com/anuraghazra/github-readme-stats)
 
-![Felipe's Stats](https://github-readme-stats.vercel.app/api?username=felipe-gade&show_icons=true&theme=transparent)

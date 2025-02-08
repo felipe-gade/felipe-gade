@@ -11,3 +11,8 @@ Sou estudante do DevClub, e atualmente estou criando projetos com:
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-logo"/> 
 
+[![Felipe's Stats](https://github-readme-stats.vercel.app/api?username=felipe-gade)](https://github.com/felipe-gade/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-gade)](https://github.com/anuraghazra/github-readme-stats)
+
+![Felipe's Stats](https://github-readme-stats.vercel.app/api?username=felipe-gade&show_icons=true&theme=transparent)
